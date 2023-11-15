@@ -12,7 +12,7 @@ srcaudio: data/yonsei-reading-1-25.mp3
 
 그래서 인터넷에서 찾았습니다.
 
-![Image](/data/yonsei-reading-1-25-1.jpg)
+![Image](/yonsei-reading-1/data/yonsei-reading-1-25-1.jpg)
 
 조금 어려웠습니다.
 
